@@ -11,7 +11,7 @@ This is a solution to CPE test question bank written in Java 8
 ### 6.7模擬
 
 [6.0]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)
-[6.1]:(https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.1字元與字串)
+[6.1]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.1字元與字串
 
 
 
