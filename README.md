@@ -8,8 +8,6 @@ This is a solution to CPE test question bank written in Java 8
   
  this is hidden!
 </details>
-
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 <details>
   <summary><strong>6.2數學計算 <a href=[6.2]>🔗</a><strong></summary>
   
@@ -53,14 +51,51 @@ This is a solution to CPE test question bank written in Java 8
 <br/>
 
 ## Two Star Difficulty(Intermediate)[⭐️⭐️][7.0]
-### 7.1字元與字串 [🔗][7.1]
-### 7.2大數運算 [🔗][7.2]
-### 7.3數學計算 [🔗][7.3]
-### 7.4質數、因數與餘數 [🔗][7.4]
-### 7.5幾合問題 [🔗][7.5]
-### 7.6圖論問題 [🔗][7.6]
-### 7.7貪婪與動態規劃演算法 [🔗][7.7]
-### 7.8其他 [🔗][7.8]
+<details>
+  <summary><strong>7.1字元與字串 <a href=[7.1]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>7.1字元與字串 <a href=[7.2]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>7.2大數運算 <a href=[7.3]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>7.3數學計算 <a href=[7.4]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>7.4質數、因數與餘數 <a href=[7.5]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>7.5幾合問題 <a href=[7.1]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>7.6圖論問題 <a href=[7.6]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>7.7貪婪與動態規劃演算法 <a href=[7.7]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>7.8其他 <a href=[7.8]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
 
 [7.0]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)
 [7.1]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串
@@ -73,9 +108,21 @@ This is a solution to CPE test question bank written in Java 8
 [7.8]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.8其他
 <br/>
 ## Three Star Difficulty(Difficult)[⭐️⭐️⭐️][8.0]
-### 8.1數學計算 [🔗][8.1]
-### 8.2動態規劃 [🔗][8.2]
-### 8.3其他 [🔗][8.3]
+<details>
+  <summary><strong>8.1數學計算 <a href=[8.1]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>8.2動態規劃 <a href=[8.2]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>8.3其他 <a href=[8.3]>🔗</a><strong></summary>
+  
+ this is hidden!
+</details>
 
 [8.0]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%208-ThreeStar(Difficult)
 [8.1]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%208-ThreeStar(Difficult)/8.1數學計算
