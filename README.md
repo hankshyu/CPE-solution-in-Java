@@ -13,12 +13,32 @@ This is a solution to CPE test question bank written in Java 8
   
  this is hidden!
 </details>
-### 6.2數學計算 [🔗][6.2]
-### 6.3進位制轉換 [🔗][6.3]
-### 6.4質數、因數、倍數 [🔗][6.4]
-### 6.5座標與幾何 [🔗][6.5]
-### 6.6排序與中位數 [🔗][6.6]
-### 6.7模擬 [🔗][6.7]
+<details>
+  <summary><strong>6.3進位制轉換 [🔗][6.3]<strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>6.4質數、因數、倍數 [🔗][6.4]<strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>6.5座標與幾何 [🔗][6.5]<strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>6.6排序與中位數 [🔗][6.6]<strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>6.7模擬 [🔗][6.7]<strong></summary>
+  
+ this is hidden!
+</details>
+
 
 [6.0]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)
 [6.1]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.1字元與字串
