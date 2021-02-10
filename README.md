@@ -4,7 +4,12 @@ This is a solution to CPE test question bank written in Java 8
 ## One Star Difficulty(Easy)[⭐️][6.0]
 
 <details>
-  <summary><h3>C6.1字元與字串 [🔗][6.1]</h3></summary>
+  <summary><strong>6.1字元與字串 [🔗][6.1]<strong></summary>
+  
+ this is hidden!
+</details>
+<details>
+  <summary><strong>6.2數學計算 [🔗][6.2]<strong></summary>
   
  this is hidden!
 </details>
