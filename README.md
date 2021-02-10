@@ -21,7 +21,7 @@ This is a solution to CPE test question bank written in Java 8
 
 
 
-## Two Star Difficulty(Intermediate)⭐️⭐️
+## Two Star Difficulty(Intermediate)[⭐️⭐️][7.0]
 ### 7.1字元與字串
 ### 7.2大數運算
 ### 7.3數學計算
@@ -31,6 +31,16 @@ This is a solution to CPE test question bank written in Java 8
 ### 7.6圖論問題
 ### 7.7貪婪與動態規劃演算法
 ### 7.8其他
+
+[7.0]:
+[7.1]:
+[7.2]:
+[7.3]:
+[7.4]:
+[7.5]:
+[7.6]:
+[7.7]:
+[7.7]:
 ## Three Star Difficulty(Difficult)⭐️⭐️⭐️
 ### 8.1數學計算
 ### 8.2動態規劃
