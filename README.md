@@ -1,8 +1,8 @@
 # CPE-solution-in-Java
 This is a solution to CPE test question bank written in Java 8
 
-## One Star Difficulty(Easy)⭐️
-### 6.1字元與字串[🔗](/6.1字元與字串)
+## One Star Difficulty(Easy)[⭐️][6.0]
+### 6.1字元與字串[🔗][6.1]
 ### 6.2數學計算
 ### 6.3進位制轉換
 ### 6.4質數、因數、倍數
@@ -10,7 +10,10 @@ This is a solution to CPE test question bank written in Java 8
 ### 6.6排序與中位數
 ### 6.7模擬
 
-[click](/6.1字元與字串/6.1.1%20whatsCryptanalysis(UVA10008).java)
+[6.0]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)
+[6.1]:(https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.1字元與字串)
+
+
 
 ## Two Star Difficulty(Intermediate)⭐️⭐️
 ### 7.1字元與字串
