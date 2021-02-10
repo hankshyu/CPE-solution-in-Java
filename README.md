@@ -19,7 +19,7 @@ This is a solution to CPE test question bank written in Java 8
 [6.6]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.6排序與中位數
 [6.7]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.7模擬
 
-
+<br/>
 
 ## Two Star Difficulty(Intermediate)[⭐️⭐️][7.0]
 ### 7.1字元與字串 [🔗][7.1]
@@ -40,7 +40,7 @@ This is a solution to CPE test question bank written in Java 8
 [7.6]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.6圖論問題
 [7.7]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.7貪婪與動態規劃演算法
 [7.8]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.8其他
-
+<br/>
 ## Three Star Difficulty(Difficult)[⭐️⭐️⭐️][8.0]
 ### 8.1數學計算 [🔗][8.1]
 ### 8.2動態規劃 [🔗][8.2]
