@@ -2,7 +2,9 @@
 This is a solution to CPE test question bank written in Java 8
 
 ## One Star Difficulty(Easy)[⭐️][6.0]
-### 6.1字元與字串 [🔗][6.1]
+### <details><summary>6.1字元與字串 [🔗][6.1]</summary> ####this is hidden!<p>
+
+  </p></details>
 ### 6.2數學計算 [🔗][6.2]
 ### 6.3進位制轉換 [🔗][6.3]
 ### 6.4質數、因數、倍數 [🔗][6.4]
