@@ -4,14 +4,17 @@ This is a solution to CPE test question bank written in Java 8
 ## One Star Difficulty(Easy)[⭐️][6.0]
 
 <details>
-  <summary><strong>6.1字元與字串 <a href=[6.1]>🔗</a><strong></summary>
+  <summary><strong>6.1字元與字串 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.1字元與字串>🔗</a><strong></summary>
  <ul>
-  <li/><a href=[6.1.1]>whatsCryptanalysis(UVA10008)</a>
-  <li/><a href=[6.1.2]>decodeTheMadMan(UVA10222)</a>
-  <li/><a href=[6.1.3]>SummingDigits(UVA11332)</a>
-  <li/><a href=[6.1.4]>commonPernutation(UVA10252)</a>
-  <li/><a href=[6.1.5]>rotatingSecntence(UVA490)</a>
-  <li/><a href=[6.1.6]>teXQuotes(UVA272)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.1%20whatsCryptanalysis(UVA10008).java
+>whatsCryptanalysis(UVA10008)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.2%20decodeTheMadMan(UVA10222).java
+>decodeTheMadMan(UVA10222)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.3%20SummingDigits(UVA11332).java>SummingDigits(UVA11332)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.4%20commonPernutation(UVA10252).java>commonPernutation(UVA10252)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.5%20rotatingSecntence(UVA490).java>rotatingSecntence(UVA490)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.6%20teXQuotes(UVA272).java
+>teXQuotes(UVA272)</a>
  </ul>
 </details>
 <details>
