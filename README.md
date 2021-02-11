@@ -163,84 +163,96 @@ This is a solution to CPE test question bank written in Java 8
 
 ## Two Star Difficulty(Intermediate)[⭐️⭐️][7.0]
 <details>
-  <summary><strong>7.1字元與字串 <a href=[7.1]>🔗</a><strong></summary>
+  <summary><strong>7.1字元與字串 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[7.1.1]>7.1.1 powerString(UVA10295)</a>
-  <li/><a href=[7.1.2]>7.1.2 allInAll(UVA10340)</a>
-  <li/><a href=[7.1.4]>7.1.4 hayPoints(UVA10295)</a>
-  <li/><a href=[7.1.5]>7.1.5 automatedJudgeScript(UVA10188)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串/7.1.1%20powerString(UVA10295).java>7.1.1 powerString(UVA10295)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串/7.1.2%20allInAll(UVA10340).java>7.1.2 allInAll(UVA10340)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串/7.1.4%20hayPoints(UVA10295).java>7.1.4 hayPoints(UVA10295)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串/7.1.5%20automatedJudgeScript(UVA10188).java>7.1.5 automatedJudgeScript(UVA10188)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>7.2大數運算 <a href=[7.3]>🔗</a><strong></summary>
+  <summary><strong>7.2大數運算 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.2大數運算
+>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[7.2.1]>superLongSum(UVA10013)</a>
-  <li/><a href=[7.2.2]>product(UVA10106)</a>
-  <li/><a href=[7.2.3]>iLoveBigNumbers(UVA10220)</a>
-  <li/><a href=[7.2.4]>fibonacciFreeze(UVA495)</a>
-  <li/><a href=[7.2.5]>krakovia(UVA10925)</a>
-  <li/><a href=[7.2.6]>oceanDeepMakeitShallow!!(UVA10076)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.2大數運算/7.2.1%20superLongSum(UVA10013).java>superLongSum(UVA10013)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.2大數運算/7.2.2%20product(UVA10106).java
+>product(UVA10106)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.2大數運算/7.2.3%20iLoveBigNumbers(UVA10220).java>iLoveBigNumbers(UVA10220)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.2大數運算/7.2.4%20fibonacciFreeze(UVA495).java>fibonacciFreeze(UVA495)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.2大數運算/7.2.5%20krakovia(UVA10925).java
+>krakovia(UVA10925)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.2大數運算/7.2.6%20oceanDeepMakeitShallow!!(UVA10076).java
+>oceanDeepMakeitShallow!!(UVA10076)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>7.3數學計算 <a href=[7.4]>🔗</a><strong></summary>
+  <summary><strong>7.3數學計算 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.3數學計算>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[7.3.1]>quirksomeSquare(UVA256)</a>
-  <li/><a href=[7.3.1]>necklace(UVA11001)</a>
-  <li/><a href=[7.3.1]>theLargest/SmallestBox(UVA10215)</a>
-  <li/><a href=[7.3.1]>theTrip(UVA10137)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.3數學計算/7.3.1%20quirksomeSquare(UVA256).java
+>quirksomeSquare(UVA256)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.3數學計算/7.3.2%20necklace(UVA11001).java>necklace(UVA11001)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.3數學計算/7.3.3%20theLargest:SmallestBox(UVA10215).java>theLargest/SmallestBox(UVA10215)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.3數學計算/7.3.4%20theTrip(UVA10137).java>theTrip(UVA10137)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>7.4質數、因數與餘數 <a href=[7.5]>🔗</a><strong></summary>
+  <summary><strong>7.4質數、因數與餘數 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.4質數、因數與餘數>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[7.4.1]>ones(UVA10127)</a>
-  <li/><a href=[7.4.2]>deadFraction(UVA10555)</a>
-  <li/><a href=[7.4.3]>simpleDivision(UVA10407)</a>
-  <li/><a href=[7.4.5]>ProblemA-primeDistance(UVA10140)</a>
-  <li/><a href=[7.4.6]>primetime(UVA10200)</a>
-  <li/><a href=[7.4.7]>smithNumber(UVA10042)</a>
-  <li/><a href=[7.4.8]>productofdigits(UVA993)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.4質數、因數與餘數/7.4.1%20ones(UVA10127).java
+>ones(UVA10127)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.4質數、因數與餘數/7.4.2%20deadFraction(UVA10555).java>deadFraction(UVA10555)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.4質數、因數與餘數/7.4.3%20simpleDivision(UVA10407).java>simpleDivision(UVA10407)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.4質數、因數與餘數/7.4.5%20ProblemA-primeDistance(UVA10140).java>ProblemA-primeDistance(UVA10140)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.4質數、因數與餘數/7.4.6%20primetime(UVA10200).java>primetime(UVA10200)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.4質數、因數與餘數/7.4.7%20smithNumber(UVA10042).java>smithNumber(UVA10042)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.4質數、因數與餘數/7.4.8%20productofdigits(UVA993).java>productofdigits(UVA993)</a>
   </ul>
  this is hidden!
 </details>
 <details>
-  <summary><strong>7.5幾合問題 <a href=[7.1]>🔗</a><strong></summary>
+  <summary><strong>7.5幾合問題 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.5幾合問題>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[7.5.1]>birthdayCake(UVA10167)</a>
-  <li/><a href=[7.5.2]>isThisIntegration(UVA10209)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.5幾合問題/7.5.1%20birthdayCake(UVA10167).java
+>birthdayCake(UVA10167)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.5幾合問題/7.5.2%20isThisIntegration(UVA10209).java>isThisIntegration(UVA10209)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>7.6圖論問題 <a href=[7.6]>🔗</a><strong></summary>
+  <summary><strong>7.6圖論問題 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.6圖論問題>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[7.6.1]>oilDepositsOriginal(UVA572)</a>
-  <li/><a href=[7.6.2]>allRoadsLeadWhere(UVA10009)</a>
-  <li/><a href=[7.6.3]>bicoloringOriginal(UVA10004)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.6圖論問題/7.6.1%20oilDepositsOriginal(UVA572).java
+>oilDepositsOriginal(UVA572)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.6圖論問題/7.6.2%20allRoadsLeadWhere(UVA10009).java
+>allRoadsLeadWhere(UVA10009)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.6圖論問題/7.6.3bicoloringOriginal(UVA10004).java>bicoloringOriginal(UVA10004)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>7.7貪婪與動態規劃演算法 <a href=[7.7]>🔗</a><strong></summary>
+  <summary><strong>7.7貪婪與動態規劃演算法 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.7貪婪與動態規劃演算法>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[7.7.1]>7.7.1 minimalCoverage(UvA10020)</a>
-  <li/><a href=[7.7.2]>7.7.2 ants(UVA10714)</a>
-  <li/><a href=[7.7.3]>7.7.3 brickWallPattern(UVA900)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.7貪婪與動態規劃演算法/7.7.1%20minimalCoverage(UvA10020).java
+>7.7.1 minimalCoverage(UvA10020)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.7貪婪與動態規劃演算法/7.7.2%20ants(UVA10714).java
+>7.7.2 ants(UVA10714)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.7貪婪與動態規劃演算法/7.7.3%20brickWallPattern(UVA900).java>7.7.3 brickWallPattern(UVA900)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>7.8其他 <a href=[7.8]>🔗</a><strong></summary>
+  <summary><strong>7.8其他 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%207-TwoStar(Intermediate)/7.8其他>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[7.7.1]>7.8.1 conformity(UVA11286)</a>
-  <li/><a href=[7.7.2]>7.8.2 Problem E simpleAddtion(UVA10994)</a>
-  <li/><a href=[7.7.3]>7.8.3 powerCrisis(UVA151)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.8其他/7.8.1%20conformity(UVA11286).java>7.8.1 conformity(UVA11286)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.8其他/7.8.2%20Problem%20E%20simpleAddtion(UVA10994).java>7.8.2 Problem E simpleAddtion(UVA10994)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.8其他/7.8.3%20powerCrisis(UVA151).java
+>7.8.3 powerCrisis(UVA151)</a>
   </ul>
 </details>
 
@@ -301,25 +313,29 @@ This is a solution to CPE test question bank written in Java 8
 <br/>
 ## Three Star Difficulty(Difficult)[⭐️⭐️⭐️][8.0]
 <details>
-  <summary><strong>8.1數學計算 <a href=[8.1]>🔗</a><strong></summary>
+  <summary><strong>8.1數學計算 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%208-ThreeStar(Difficult)/8.1數學計算>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[8.1.1]>8.1.1 {sum+=i++} ToReachN(UVA10290)</a>
-  <li/><a href=[8.1.2]>8.1.2 lastDigits(UVA10162)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%208-ThreeStar(Difficult)/8.1數學計算/8.1.1%20%7Bsum%2B%3Di%2B%2B%7D%20ToReachN(UVA10290).java>8.1.1 {sum+=i++} ToReachN(UVA10290)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%208-ThreeStar(Difficult)/8.1數學計算/8.1.2%20lastDigits(UVA10162).java
+>8.1.2 lastDigits(UVA10162)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>8.2動態規劃 <a href=[8.2]>🔗</a><strong></summary>
+  <summary><strong>8.2動態規劃 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%208-ThreeStar(Difficult)/8.2動態規劃>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[8.2.1]>8.2.1 Qusetion 1 - isBiggerSmarter?(UVA10131)</a>
-  <li/><a href=[8.2.2]>8.2.2 divisibility(UVA10036)</a>
-  <li/><a href=[8.2.3]>8.2.3 dollars(UVA147)</a>
-  <li/><a href=[8.2.4]>8.2.4 safesalutaion(UVA991)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%208-ThreeStar(Difficult)/8.2動態規劃/8.2.1%20Qusetion%201%20-%20isBiggerSmarter%3F(UVA10131).java
+>8.2.1 Qusetion 1 - isBiggerSmarter?(UVA10131)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%208-ThreeStar(Difficult)/8.2動態規劃/8.2.2%20divisibility(UVA10036).java
+>8.2.2 divisibility(UVA10036)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%208-ThreeStar(Difficult)/8.2動態規劃/8.2.3%20dollars(UVA147).java
+>8.2.3 dollars(UVA147)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%208-ThreeStar(Difficult)/8.2動態規劃/8.2.4%20safesalutaion(UVA991).java>8.2.4 safesalutaion(UVA991)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>8.3其他 <a href=[8.3]>🔗</a><strong></summary>
+  <summary><strong>8.3其他 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%208-ThreeStar(Difficult)/8.3其他>🔗</a><strong></summary>
   
  currently empty
 </details>
