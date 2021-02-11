@@ -1,6 +1,9 @@
 # CPE-solution-in-Java
-This is a solution to CPE test question bank written in Java 8
+This is a solution to CPE test question bank written in Java 8<br/>
 <img align="left" alt="pic" width="100px" src="https://cpe.cse.nsysu.edu.tw/doc/CPE_Handbook.jpg" />
+
+<br/>
+---
 ## One Star Difficulty(Easy)[⭐️][6.0]
 
 <details>
