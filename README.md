@@ -1,6 +1,6 @@
 # CPE-solution-in-Java <img alt="java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 This is a set of solution to CPE test question bank written in Java 8<br/>
-[Mail](mailto:hankshyu@gmail.com) me if you found any annoying bug or for better solution😀
+[Mail](mailto:hankshyu@gmail.com) me if you find any annoying bug or for better solution😀<br/>
 
 
 [<img align="left" alt="pic" width="100px" src="https://cpe.cse.nsysu.edu.tw/doc/CPE_Handbook.jpg" />](https://cpe.cse.nsysu.edu.tw/cpe_book.php)
