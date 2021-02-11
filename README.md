@@ -2,8 +2,12 @@
 This is a solution to CPE test question bank written in Java 8<br/><br/>
 
 <img align="left" alt="pic" width="100px" src="https://cpe.cse.nsysu.edu.tw/doc/CPE_Handbook.jpg" />
-<li/>this
-<li/>2
+
+<li/>書名：大學程式能力檢定：CPE祕笈 
+<li/>作者：林盈達、黃世昆、楊昌彪、葉正聖、謝育平 
+<li/>出版社：美商麥格羅‧希爾 
+<li/>出版日期：2013年02月25日
+<li/>ISBN: 978-986-157-941-2
 
 <br/>
 <br/>
