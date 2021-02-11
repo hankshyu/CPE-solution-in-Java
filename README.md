@@ -1,4 +1,4 @@
-# CPE-solution-in-Java<img alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+# CPE-solution-in-Java <img alt="java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 This is a solution to CPE test question bank written in Java 8<br/><br/>
 
 [<img align="left" alt="pic" width="100px" src="https://cpe.cse.nsysu.edu.tw/doc/CPE_Handbook.jpg" />](https://cpe.cse.nsysu.edu.tw/cpe_book.php)
