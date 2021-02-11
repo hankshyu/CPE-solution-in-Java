@@ -14,12 +14,7 @@ This is a solution to CPE test question bank written in Java 8
   <li/><a href=[6.1.1]>teXQuotes(UVA272)</a>
  </ul>
 </details>
-[6.1.1]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.1%20whatsCryptanalysis(UVA10008).java
-[6.1.2]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.2%20decodeTheMadMan(UVA10222).java
-[6.1.3]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.3%20SummingDigits(UVA11332).java
-[6.1.4]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.4%20commonPernutation(UVA10252).java
-[6.1.5]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.5%20rotatingSecntence(UVA490).java
-[6.1.6]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.6%20teXQuotes(UVA272).java
+
 
 <details>
   <summary><strong>6.2數學計算 <a href=[6.2]>🔗</a><strong></summary>
@@ -64,6 +59,13 @@ This is a solution to CPE test question bank written in Java 8
 [6.5]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.5座標與幾何
 [6.6]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.6排序與中位數
 [6.7]:https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.7模擬
+
+[6.1.1]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.1%20whatsCryptanalysis(UVA10008).java
+[6.1.2]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.2%20decodeTheMadMan(UVA10222).java
+[6.1.3]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.3%20SummingDigits(UVA11332).java
+[6.1.4]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.4%20commonPernutation(UVA10252).java
+[6.1.5]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.5%20rotatingSecntence(UVA490).java
+[6.1.6]:https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.1字元與字串/6.1.6%20teXQuotes(UVA272).java
 
 <br/>
 
