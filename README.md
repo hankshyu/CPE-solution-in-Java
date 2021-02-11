@@ -18,73 +18,87 @@ This is a solution to CPE test question bank written in Java 8
  </ul>
 </details>
 <details>
-  <summary><strong>6.2數學計算 <a href=[6.2]>🔗</a><strong></summary>  
+  <summary><strong>6.2數學計算 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.2數學計算>🔗</a><strong></summary>  
    
    <ul>
-      <li/><a href=[6.2.1]>aDoomsDayAlgorithm(UVA12019)</a>
-      <li/><a href=[6.2.2]>jolleyJumpers(UVA10038)</a>
-      <li/><a href=[6.2.3]>whatIsTheProbability!!(UVA100560)</a>
-      <li/><a href=[6.2.4]>theHotelWithInfiniteRooms(UVA10170)</a>
-      <li/><a href=[6.2.5]>498' (UVA10268)</a>
-      <li/><a href=[6.2.6]>OddSum(UVA10783)</a>
-      <li/><a href=[6.2.7]>beatTheSpread(UVA10812)</a>
-      <li/><a href=[6.2.8]>symmetricMatrix(UVA11349)</a>
-      <li/><a href=[6.2.9]>squareNumbers(UVA11461)</a>
-      <li/><a href=[6.2.10]>b2Sequence(UVA11063)</a>
-      <li/><a href=[6.2.11]>backToHighSchoolPhysics(UVA10071)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.1%20aDoomsDayAlgorithm(UVA12019).java>aDoomsDayAlgorithm(UVA12019)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.2jolleyJumpers(UVA10038).java>jolleyJumpers(UVA10038)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.3%20whatIsTheProbability!!(UVA100560).java>whatIsTheProbability!!(UVA100560)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.4%20theHotelWithInfiniteRooms(UVA10170).java>theHotelWithInfiniteRooms(UVA10170)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.5%20498'%20(UVA10268)%20.java>498' (UVA10268)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.6%20OddSum(UVA10783).java
+>OddSum(UVA10783)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.7%20beatTheSpread(UVA10812).java>beatTheSpread(UVA10812)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.8%20symmetricMatrix(UVA11349).java>symmetricMatrix(UVA11349)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.9%20squareNumbers(UVA11461).java
+>squareNumbers(UVA11461)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.10%20b2Sequence(UVA11063).java>b2Sequence(UVA11063)</a>
+      <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.2數學計算/6.2.11%20backToHighSchoolPhysics(UVA10071).java>backToHighSchoolPhysics(UVA10071)</a>
     </ul>
 </details>
 <details>
-  <summary><strong>6.3進位制轉換 <a href=[6.3]>🔗</a><strong></summary>
+  <summary><strong>6.3進位制轉換 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.3進位制轉換>🔗</a><strong></summary>
   
  <ul>
-  <li/><a href=[6.3.1]>AnEasyProblem(UVA10093)</a>
-  <li/><a href=[6.3.2]>fibonaccimalBase(UVA948)</a>
-  <li/><a href=[6.3.3]>funnyEncryptionMethod(UVA10019)</a>
-  <li/><a href=[6.3.4]>parity(UVA10931)</a>
-  <li/><a href=[6.3.5]>cheapestBase(UVA11005)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.3進位制轉換/6.3.1%20AnEasyProblem(UVA10093).java>AnEasyProblem(UVA10093)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.3進位制轉換/6.3.2%20fibonaccimalBase(UVA948).java>fibonaccimalBase(UVA948)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.3進位制轉換/6.3.3%20funnyEncryptionMethod(UVA10019).java>funnyEncryptionMethod(UVA10019)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.3進位制轉換/6.3.4%20parity(UVA10931).java
+>parity(UVA10931)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.3進位制轉換/6.3.5%20cheapestBase(UVA11005).java
+>cheapestBase(UVA11005)</a>
  </ul>
 </details>
 <details>
-  <summary><strong>6.4質數、因數、倍數 <a href=[6.4]>🔗</a><strong></summary>
+  <summary><strong>6.4質數、因數、倍數 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.4質數、因數、倍數>🔗</a><strong></summary>
   
  <ul>
-  <li/><a href=[6.4.1]>hartles(UVA10050)</a>
-  <li/><a href=[6.4.2]>allYouNeedIsLove(UVA10193)</a>
-  <li/><a href=[6.4.3]>divideButNotConquer(UVA10235)</a>
-  <li/><a href=[6.4.4]>SimplyErimp(UVA10235)</a>
-  <li/><a href=[6.4.5]>2the9s(UVA10922)</a>
-  <li/><a href=[6.4.6]>gcd(UVA114717)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.4質數、因數、倍數/6.4.1%20hartles(UVA10050).java
+>hartles(UVA10050)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.4質數、因數、倍數/6.4.2%20allYouNeedIsLove(UVA10193).java
+>allYouNeedIsLove(UVA10193)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.4質數、因數、倍數/6.4.3%20divideButNotConquer(UVA10235).java
+>divideButNotConquer(UVA10235)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.4質數、因數、倍數/6.4.4%20SimplyErimp(UVA10235).java
+>SimplyErimp(UVA10235)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.4質數、因數、倍數/6.4.5%202the9s(UVA10922).java>2the9s(UVA10922)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.4質數、因數、倍數/6.4.6%20gcd(UVA114717).java
+>gcd(UVA114717)</a>
  </ul>
 </details>
 <details>
-  <summary><strong>6.5座標與幾何 <a href=[6.5]>🔗</a><strong></summary>
+  <summary><strong>6.5座標與幾何 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.5座標與幾何>🔗</a><strong></summary>
   <ul>
-  <li/><a href=[6.5.1]>largestSquare(UVA10908)</a>
-  <li/><a href=[6.5.2]>satellites(UVA10221)</a>
-  <li/><a href=[6.5.3]>canYouSolveIt?(UVA10642)</a>
-  <li/><a href=[6.5.4]>fourthPoint!!(UVA10242)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.5座標與幾何/6.5.1%20largestSquare(UVA10908).java>largestSquare(UVA10908)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.5座標與幾何/6.5.2%20satellites(UVA10221).java
+>satellites(UVA10221)</a>
+  <li/><a href=[https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.5座標與幾何/6.5.3%20canYouSolveIt%3F(UVA10642).java>canYouSolveIt?(UVA10642)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.5座標與幾何/6.5.4%20fourthPoint!!(UVA10242).java
+>fourthPoint!!(UVA10242)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>6.6排序與中位數 <a href=[6.6]>🔗</a><strong></summary>
+  <summary><strong>6.6排序與中位數 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.6排序與中位數>🔗</a><strong></summary>
   
   <ul>
-  <li/><a href=[6.6.1]>aMidSummerNightsDream(UVA10057)</a>
-  <li/><a href=[6.6.2]>tellMeTheFrequencies(UVA10062)</a>
-  <li/><a href=[6.6.3]>trainSwapping(UVA299)</a>
-  <li/><a href=[6.6.4]>hardwoodSpecies(UVA10226)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.6排序與中位數/6.6.1%20aMidSummerNightsDream(UVA10057).java>aMidSummerNightsDream(UVA10057)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.6排序與中位數/6.6.2%20tellMeTheFrequencies(UVA10062).java>tellMeTheFrequencies(UVA10062)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.6排序與中位數/6.6.3%20trainSwapping(UVA299).java
+>trainSwapping(UVA299)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.6排序與中位數/6.6.4%20HardwoodSpecies(UVA10226).java>hardwoodSpecies(UVA10226)</a>
   </ul>
 </details>
 <details>
-  <summary><strong>6.7模擬 <a href=[6.7]>🔗</a><strong></summary>
+  <summary><strong>6.7模擬 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%206-OneStar(Easy)/6.7模擬>🔗</a><strong></summary>
   
  <ul>
-  <li/><a href=[6.7.1]>minesweeper(UVA10189)</a>
-  <li/><a href=[6.7.2]>dieGame(UVA10409)</a>
-  <li/><a href=[6.7.3]>ebAltoSaxophonePlayer(UVA10415)</a>
-  <li/><a href=[6.7.4]>mutantFlatWorldWarrior(UVA118)</a>
-  <li/><a href=[6.7.5]>Cola(UVA11150)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.7模擬/6.7.1%20minesweeper(UVA10189).java>minesweeper(UVA10189)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.7模擬/6.7.2%20dieGame(UVA10409).java
+>dieGame(UVA10409)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.7模擬/6.7.3%20ebAltoSaxophonePlayer(UVA10415).java>ebAltoSaxophonePlayer(UVA10415)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.7模擬/6.7.4%20mutantFlatWorldWarrior(UVA118).java>mutantFlatWorldWarrior(UVA118)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%206-OneStar(Easy)/6.7模擬/6.7.5%20Cola(UVA11150).java
+>Cola(UVA11150)</a>
   </ul>
 </details>
 
