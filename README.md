@@ -310,7 +310,7 @@ This is a solution to CPE test question bank written in Java 8
 
 
 
-<br/>
+
 ## Three Star Difficulty(Difficult)[⭐️⭐️⭐️][8.0]
 <details>
   <summary><strong>8.1數學計算 <a href=https://github.com/hankshyu/CPE-solution-in-Java/tree/main/Chapter%208-ThreeStar(Difficult)/8.1數學計算>🔗</a><strong></summary>
