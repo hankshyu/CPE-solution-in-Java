@@ -11,11 +11,7 @@ This is a solution to CPE test question bank written in Java 8<br/><br/>
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ## One Star Difficulty(Easy)[⭐️][6.0]
 
