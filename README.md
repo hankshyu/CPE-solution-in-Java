@@ -10,8 +10,12 @@ This is a solution to CPE test question bank written in Java 8
 </details>
 <details>
   <summary><strong>6.2數學計算 <a href=[6.2]>🔗</a><strong></summary>
-  
- this is hidden!
+   
+   <ul>
+      <li/>this is hidden 1
+      <li/>this is hidden 2
+    </ul>
+
 </details>
 <details>
   <summary><strong>6.3進位制轉換 <a href=[6.3]>🔗</a><strong></summary>
