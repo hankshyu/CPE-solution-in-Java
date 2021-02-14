@@ -183,7 +183,7 @@ This is a set of solution to CPE test question bank written in Java 8<br/>
   <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串/7.1.1%20powerString(UVA10295).java> powerString(UVA10295)</a>
   <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串/7.1.2%20allInAll(UVA10340).java>allInAll(UVA10340)</a>
   <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串/7.1.4%20hayPoints(UVA10295).java>hayPoints(UVA10295)</a>
-  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串/7.1.5%20automatedJudgeScript(UVA10188).java>7.1.5 automatedJudgeScript(UVA10188)</a>
+  <li/><a href=https://github.com/hankshyu/CPE-solution-in-Java/blob/main/Chapter%207-TwoStar(Intermediate)/7.1字元與字串/7.1.5%20automatedJudgeScript(UVA10188).java>automatedJudgeScript(UVA10188)</a>
   </ul>
 </details>
 <details>
