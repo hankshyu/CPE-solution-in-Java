@@ -1,6 +1,8 @@
 # CPE-solution-in-Java <img alt="java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 
-![](https://img.shields.io/github/license/hankshyu/CPE-solution-in-Java?color=orange&logo=github&style=flat-square)
+
+<img alt="GitHub License" src="https://img.shields.io/github/license/hankshyu/CPE-solution-in-Java?color=orange&logo=github&style=flat"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hankshyu/CPE-solution-in-Java?style=flat"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hankshyu/CPE-solution-in-Java"> <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/hankshyu/CPE-solution-in-Java">
+
 
 This is a set of solution to CPE test question bank written in Java 8<br/>
 [Mail](mailto:hankshyu@gmail.com) me if you find any annoying bug or for better solution😀<br/>
