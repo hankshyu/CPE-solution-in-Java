@@ -3,7 +3,7 @@
 
 <img alt="GitHub License" src="https://img.shields.io/github/license/hankshyu/CPE-solution-in-Java?color=orange&logo=github"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hankshyu/CPE-solution-in-Java"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hankshyu/CPE-solution-in-Java"> <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/hankshyu/CPE-solution-in-Java"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hankshyu/CPE-solution-in-Java"> 
 
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hankshyu/CPE-solution-in-Java?logo=git"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/hankshyu/CPE-solution-in-Java">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hankshyu/CPE-solution-in-Java">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hankshyu/CPE-solution-in-Java?logo=git&color=green"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/hankshyu/CPE-solution-in-Java?logo=git&color=green">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hankshyu/CPE-solution-in-Java?logo=git&color=green">
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hankshyu/CPE-solution-in-Java?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hankshyu/CPE-solution-in-Java?style=social">
 
