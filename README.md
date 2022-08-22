@@ -1,12 +1,10 @@
 # CPE solution written in Java <img alt="java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 
-
 <img alt="GitHub License" src="https://img.shields.io/github/license/hankshyu/CPE-solution-in-Java?color=orange&logo=github"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hankshyu/CPE-solution-in-Java"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hankshyu/CPE-solution-in-Java"> <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/hankshyu/CPE-solution-in-Java"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hankshyu/CPE-solution-in-Java"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hankshyu/CPE-solution-in-Java?logo=git&color=green"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/hankshyu/CPE-solution-in-Java?logo=git&color=green">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hankshyu/CPE-solution-in-Java?logo=git&color=green">
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hankshyu/CPE-solution-in-Java?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hankshyu/CPE-solution-in-Java?style=social">
 
 This is a set of solution to CPE test question bank written in Java 8. Contact me if you find any annoying bug or for better solution😀<br/>
-
 
 [<img align="left" alt="pic" width="100px" src="https://cpe.cse.nsysu.edu.tw/doc/CPE_Handbook.jpg" />](https://cpe.cse.nsysu.edu.tw/cpe_book.php)
 
