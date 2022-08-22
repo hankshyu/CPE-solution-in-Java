@@ -1,4 +1,7 @@
 # CPE-solution-in-Java <img alt="java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+
+![](https://img.shields.io/github/license/hankshyu/CPE-solution-in-Java?color=orange&logo=github&style=flat-square)
+
 This is a set of solution to CPE test question bank written in Java 8<br/>
 [Mail](mailto:hankshyu@gmail.com) me if you find any annoying bug or for better solution😀<br/>
 
