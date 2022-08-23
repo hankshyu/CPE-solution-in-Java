@@ -4,7 +4,7 @@
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hankshyu/CPE-solution-in-Java?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hankshyu/CPE-solution-in-Java?style=social">
 
----
+
 ### This is a set of solution to CPE test question bank written in Java 8. Feel free to contact me if you find any annoying bug or for better solution😀<br/>
 
 [<img align="left" alt="pic" width="100px" src="https://cpe.cse.nsysu.edu.tw/doc/CPE_Handbook.jpg" />](https://cpe.cse.nsysu.edu.tw/cpe_book.php)
